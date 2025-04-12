@@ -6,7 +6,7 @@
 
 ---
 
-<img src="images/logo.png" alt="logo" style="max-width: 350px;">
+<img src="images/logo.png" alt="logo" width="350px;">
 
 ### **Description**
 
